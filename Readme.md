@@ -10,14 +10,15 @@
 - 👯 I have build [End to End AWS Cloud Data Integration and AD Targeting Analysis of Youtube API Data](https://github.com/binayak-dhal/YoutTube-API-Data-Integration-Data-Lake-Creation)
 
 - 🤝 I have completed [End to End Azure Cloud Data integration and analysis of Athletes of 2020 Tokyo Olympics](https://github.com/binayak-dhal/Tokyo_Olympics)
+- - 📫Education: Post Graduate Diploma **Big Data and Analytics**
 
 - 👨‍💻 Education : Bachelor in Technology-Electrical and Electronics Engineering,IIIT BBSR 
 
-- 📝 All of my projects are available [https://github.com/binayak-dhal](https://github.com/binayak-dhal)
+- 📝 All of my projects are available in [https://github.com/binayak-dhal](https://github.com/binayak-dhal)
 
 - 💬 Current Job Interest in **Deep Learning**
 
-- 📫Education: Post Graduate Diploma **Big Data and Analytics**
+
 
 - 📄 Email : [binayak-dhal@outlook.com,binayakd2@gmail.com](binayak-dhal@outlook.com,binayakd2@gmail.com)
 
