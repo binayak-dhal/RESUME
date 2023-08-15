@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binayak-dhal&label=Profile%20views&color=0e75b6&style=flat" alt="binayak-dhal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binayak-dhal" alt="binayak-dhal" /></a> </p>
 
 - 🔭 I’m currently working on [Predictive Loan Default Modelling with Deep Learning & Deployment Using Docker and Flask](https://github.com/binayak-dhal/Predictive-Loan-Default-Modelling-with-Deep-Learning-)
 
